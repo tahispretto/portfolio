@@ -65,15 +65,15 @@ Instale as dependências (para projetos que requerem Node.js): Navegue até o di
 
 2. **Execução dos Testes:**
 
-2.1. Para Cypress:
-npx cypress open  - executando em tempo real
- npx cypress run - executando criando logs, imagens e vídeo
+ 2.1. Para Cypress:
+  <!--npx cypress open  - executando em tempo real
+  npx cypress run - executando criando logs, imagens e vídeo -->
 
-2.2. Para Newman (Postman):
- newman run <caminho-do-arquivo-postman>.json
+ 2.2. Para Newman (Postman):
+  <!--newman run <caminho-do-arquivo-postman>.json -->
 
-2.3. para K6:
- k6 run <caminho-do-script>.js
+ 2.3. para K6:
+  <!-- k6 run <caminho-do-script>.js -->
 
 --
 
