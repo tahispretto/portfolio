@@ -1,0 +1,21 @@
+Title,Steps,Expected Result,Priority,Assigned To
+Criar novo usuário,"1. Preencher formulário
+2. Salvar",Usuário criado com sucesso,1,João Silva
+Testar roteirização de carga,"1. Selecionar origem e destino
+2. Processar roteirização",Rotas calculadas corretamente,1,Maria Souza
+Validar login do sistema,"1. Inserir usuário e senha
+2. Clicar em entrar",Login realizado com sucesso,1,Pedro Oliveira
+Testar relatório de desempenho,"1. Selecionar intervalo de datas
+2. Gerar relatório",Relatório gerado corretamente,2,João Silva
+Verificar envio de notificações,"1. Configurar alerta
+2. Aguardar envio",Notificação enviada corretamente,2,Maria Souza
+Cadastrar veículo,"1. Inserir dados do veículo
+2. Salvar",Veículo cadastrado com sucesso,1,Pedro Oliveira
+Testar integração com GPS,"1. Configurar dispositivo
+2. Iniciar sincronização",Dados sincronizados corretamente,1,João Silva
+Verificar permissões de usuário,"1. Atribuir permissões
+2. Validar acessos",Permissões aplicadas corretamente,2,Maria Souza
+Testar exportação de dados,"1. Selecionar dados
+2. Exportar para CSV",Arquivo gerado corretamente,2,Pedro Oliveira
+Validar cálculo de custos,"1. Inserir dados do trajeto
+2. Processar cálculo",Custos calculados corretamente,1,João Silva

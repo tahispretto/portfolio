@@ -1,0 +1,21 @@
+Title,Steps,Expected Result,Priority,Assigned To
+Cadastrar fornecedor,"1. Preencher dados do fornecedor
+2. Salvar",Fornecedor cadastrado com sucesso,1,Maria Souza
+Emitir nota fiscal,"1. Preencher dados da nota
+2. Gerar arquivo",Nota fiscal emitida corretamente,1,Pedro Oliveira
+Validar relatórios financeiros,"1. Selecionar período
+2. Gerar relatório",Relatório financeiro correto,1,João Silva
+Cadastrar produto no estoque,"1. Inserir detalhes do produto
+2. Salvar",Produto adicionado ao estoque,1,Maria Souza
+Atualizar preço de produtos,"1. Alterar valores
+2. Confirmar alterações",Preços atualizados com sucesso,1,Pedro Oliveira
+Testar cálculo de impostos,"1. Inserir valores de vendas
+2. Processar cálculo",Impostos calculados corretamente,1,João Silva
+Gerenciar permissões de usuários,"1. Atribuir permissões
+2. Validar acessos",Permissões aplicadas corretamente,2,Maria Souza
+Registrar movimentação de estoque,"1. Selecionar itens
+2. Registrar saída",Movimentação registrada,2,Pedro Oliveira
+Verificar integração com sistema bancário,"1. Configurar credenciais
+2. Sincronizar dados",Dados bancários sincronizados,2,João Silva
+Validar fechamento contábil,"1. Selecionar período contábil
+2. Fechar balanço",Balanço fechado corretamente,1,Maria Souza

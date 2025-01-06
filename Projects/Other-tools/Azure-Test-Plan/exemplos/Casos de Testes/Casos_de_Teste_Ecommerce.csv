@@ -1,0 +1,21 @@
+Title,Steps,Expected Result,Priority,Assigned To
+Finalizar compra,"1. Adicionar itens ao carrinho
+2. Concluir pagamento",Compra finalizada com sucesso,1,Pedro Oliveira
+Testar cálculo de frete,"1. Inserir CEP
+2. Calcular frete",Frete calculado corretamente,1,Maria Souza
+Cadastrar cliente,"1. Preencher formulário
+2. Salvar",Cliente cadastrado,1,João Silva
+Validar carrinho de compras,"1. Adicionar itens
+2. Atualizar quantidade",Carrinho atualizado,2,Pedro Oliveira
+Verificar integração com gateway de pagamento,"1. Inserir detalhes do pagamento
+2. Confirmar transação",Pagamento processado,1,Maria Souza
+Testar busca de produtos,"1. Inserir termos de busca
+2. Aplicar filtros",Produtos correspondentes listados,2,João Silva
+Emitir comprovante de compra,"1. Finalizar pedido
+2. Gerar comprovante",Comprovante emitido,1,Pedro Oliveira
+Validar cadastro de promoções,"1. Criar promoção
+2. Publicar",Promoção disponível no site,2,Maria Souza
+Verificar política de devolução,"1. Solicitar devolução
+2. Processar reembolso",Devolução concluída,2,João Silva
+Testar envio de e-mails automáticos,"1. Finalizar pedido
+2. Aguardar e-mail",E-mail recebido,2,Pedro Oliveira

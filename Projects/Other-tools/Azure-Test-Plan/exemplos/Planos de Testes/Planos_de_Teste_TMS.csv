@@ -1,0 +1,11 @@
+Plan Name,Description,Owner,Start Date,End Date
+Plano de Teste TMS - Funcionalidades Básicas,Testar funcionalidades principais do sistema TMS.,João Silva,2024-01-01,2024-01-10
+Plano de Teste TMS - Relatórios,Validar geração e exportação de relatórios no TMS.,Maria Souza,2024-01-11,2024-01-20
+Plano de Teste TMS - Integrações,Verificar integração com dispositivos GPS.,Pedro Oliveira,2024-01-21,2024-01-30
+Plano de Teste TMS - Login e Permissões,Testar autenticação e permissões de usuário.,João Silva,2024-02-01,2024-02-10
+Plano de Teste TMS - Roteirização,Validar cálculo e otimização de rotas.,Maria Souza,2024-02-11,2024-02-20
+Plano de Teste TMS - Notificações,Testar envio e configuração de alertas.,Pedro Oliveira,2024-02-21,2024-02-28
+Plano de Teste TMS - Cadastro de Veículos,Verificar cadastro e gerenciamento de veículos.,João Silva,2024-03-01,2024-03-10
+Plano de Teste TMS - Exportação de Dados,Validar exportação de relatórios e dados.,Maria Souza,2024-03-11,2024-03-20
+Plano de Teste TMS - Cálculo de Custos,Testar cálculo de custos de transporte.,Pedro Oliveira,2024-03-21,2024-03-30
+Plano de Teste TMS - Monitoramento em Tempo Real,Verificar funcionalidades de monitoramento em tempo real.,João Silva,2024-04-01,2024-04-10
